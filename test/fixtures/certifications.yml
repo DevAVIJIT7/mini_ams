@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  member: one
+  name: MyString
+  issued_at: 2026-11-17
+  tenant_id: MyString
+
+two:
+  member: two
+  name: MyString
+  issued_at: 2026-11-17
+  tenant_id: MyString
