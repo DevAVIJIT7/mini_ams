@@ -935,6 +935,7 @@ Mini-LMS SessionsController
   v
 Mini-LMS homepage: logged in
 ```
+<img width="3152" height="2286" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/15406413-5a3a-478b-9910-6ea83dc2276f" />
 
 ## 13. Debugging issues encountered and their fixes
 
